@@ -1,4 +1,10 @@
 # Changelog
+
+## 1.16.50<sup> 27 April 2026</sup>
+- Playwright executor fixes
+- Improved happysocks integration
+- Dependency updates & fixes
+
 ## 1.16.49<sup> 23 February 2026</sup>
  - Playwright executor allows to add custom reporters
  - Documentation updates
